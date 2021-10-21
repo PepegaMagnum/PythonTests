@@ -1,0 +1,1516 @@
+15:21:09,837 root INFO Request: 0
+15:21:09,892 root INFO Response status code: 502
+15:21:09,892 root INFO Content of the request no. 0: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:09,892 root INFO Request executed in :0.055
+
+15:21:09,893 root INFO Request: 1
+15:21:09,941 root INFO Response status code: 502
+15:21:09,941 root INFO Content of the request no. 1: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:09,941 root INFO Request executed in :0.047
+
+15:21:10,951 root INFO Request: 2
+15:21:11,0 root INFO Response status code: 502
+15:21:11,0 root INFO Content of the request no. 2: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:11,0 root INFO Request executed in :0.049
+
+15:21:11,506 root INFO Request: 3
+15:21:11,568 root INFO Response status code: 502
+15:21:11,568 root INFO Content of the request no. 3: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:11,568 root INFO Request executed in :0.063
+
+15:21:11,912 root INFO Request: 4
+15:21:11,979 root INFO Response status code: 502
+15:21:11,979 root INFO Content of the request no. 4: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:11,979 root INFO Request executed in :0.067
+
+15:21:12,240 root INFO Request: 5
+15:21:12,294 root INFO Response status code: 502
+15:21:12,294 root INFO Content of the request no. 5: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:12,294 root INFO Request executed in :0.053
+
+15:21:12,503 root INFO Request: 6
+15:21:12,566 root INFO Response status code: 502
+15:21:12,566 root INFO Content of the request no. 6: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:12,566 root INFO Request executed in :0.063
+
+15:21:12,738 root INFO Request: 7
+15:21:12,792 root INFO Response status code: 502
+15:21:12,792 root INFO Content of the request no. 7: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:12,792 root INFO Request executed in :0.054
+
+15:21:12,940 root INFO Request: 8
+15:21:12,993 root INFO Response status code: 502
+15:21:12,993 root INFO Content of the request no. 8: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:12,993 root INFO Request executed in :0.054
+
+15:21:13,126 root INFO Request: 9
+15:21:14,205 root INFO Response status code: 502
+15:21:14,205 root INFO Content of the request no. 9: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:14,205 root INFO Request executed in :1.079
+
+15:21:14,329 root INFO Request: 10
+15:21:14,384 root INFO Response status code: 502
+15:21:14,384 root INFO Content of the request no. 10: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:14,384 root INFO Request executed in :0.055
+
+15:21:14,486 root INFO Request: 11
+15:21:14,554 root INFO Response status code: 502
+15:21:14,554 root INFO Content of the request no. 11: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:14,554 root INFO Request executed in :0.067
+
+15:21:14,658 root INFO Request: 12
+15:21:14,705 root INFO Response status code: 502
+15:21:14,706 root INFO Content of the request no. 12: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:14,706 root INFO Request executed in :0.047
+
+15:21:14,798 root INFO Request: 13
+15:21:14,850 root INFO Response status code: 502
+15:21:14,850 root INFO Content of the request no. 13: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:14,850 root INFO Request executed in :0.052
+
+15:21:14,938 root INFO Request: 14
+15:21:14,987 root INFO Response status code: 502
+15:21:14,987 root INFO Content of the request no. 14: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:14,987 root INFO Request executed in :0.049
+
+15:21:15,64 root INFO Request: 15
+15:21:15,137 root INFO Response status code: 502
+15:21:15,137 root INFO Content of the request no. 15: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:15,137 root INFO Request executed in :0.074
+
+15:21:15,219 root INFO Request: 16
+15:21:15,275 root INFO Response status code: 502
+15:21:15,275 root INFO Content of the request no. 16: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:15,275 root INFO Request executed in :0.056
+
+15:21:15,343 root INFO Request: 17
+15:21:15,404 root INFO Response status code: 502
+15:21:15,404 root INFO Content of the request no. 17: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:15,405 root INFO Request executed in :0.062
+
+15:21:15,468 root INFO Request: 18
+15:21:16,570 root INFO Response status code: 502
+15:21:16,570 root INFO Content of the request no. 18: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:16,570 root INFO Request executed in :1.102
+
+15:21:16,638 root INFO Request: 19
+15:21:16,693 root INFO Response status code: 502
+15:21:16,693 root INFO Content of the request no. 19: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:16,693 root INFO Request executed in :0.055
+
+15:21:16,747 root INFO Request: 20
+15:21:16,799 root INFO Response status code: 502
+15:21:16,799 root INFO Content of the request no. 20: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:16,799 root INFO Request executed in :0.052
+
+15:21:16,857 root INFO Request: 21
+15:21:16,915 root INFO Response status code: 502
+15:21:16,915 root INFO Content of the request no. 21: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:16,915 root INFO Request executed in :0.058
+
+15:21:16,966 root INFO Request: 22
+15:21:17,28 root INFO Response status code: 502
+15:21:17,29 root INFO Content of the request no. 22: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,29 root INFO Request executed in :0.063
+
+15:21:17,90 root INFO Request: 23
+15:21:17,140 root INFO Response status code: 502
+15:21:17,140 root INFO Content of the request no. 23: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,140 root INFO Request executed in :0.050
+
+15:21:17,199 root INFO Request: 24
+15:21:17,256 root INFO Response status code: 502
+15:21:17,256 root INFO Content of the request no. 24: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,256 root INFO Request executed in :0.057
+
+15:21:17,308 root INFO Request: 25
+15:21:17,365 root INFO Response status code: 502
+15:21:17,365 root INFO Content of the request no. 25: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,365 root INFO Request executed in :0.056
+
+15:21:17,417 root INFO Request: 26
+15:21:17,462 root INFO Response status code: 502
+15:21:17,462 root INFO Content of the request no. 26: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,462 root INFO Request executed in :0.046
+
+15:21:17,511 root INFO Request: 27
+15:21:17,563 root INFO Response status code: 502
+15:21:17,563 root INFO Content of the request no. 27: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,563 root INFO Request executed in :0.051
+
+15:21:17,603 root INFO Request: 28
+15:21:17,653 root INFO Response status code: 502
+15:21:17,653 root INFO Content of the request no. 28: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,653 root INFO Request executed in :0.050
+
+15:21:17,694 root INFO Request: 29
+15:21:17,743 root INFO Response status code: 502
+15:21:17,744 root INFO Content of the request no. 29: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,744 root INFO Request executed in :0.049
+
+15:21:17,787 root INFO Request: 30
+15:21:17,844 root INFO Response status code: 502
+15:21:17,844 root INFO Content of the request no. 30: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,844 root INFO Request executed in :0.057
+
+15:21:17,879 root INFO Request: 31
+15:21:17,921 root INFO Response status code: 502
+15:21:17,921 root INFO Content of the request no. 31: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:17,922 root INFO Request executed in :0.042
+
+15:21:17,957 root INFO Request: 32
+15:21:18,12 root INFO Response status code: 502
+15:21:18,12 root INFO Content of the request no. 32: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:18,12 root INFO Request executed in :0.055
+
+15:21:18,50 root INFO Request: 33
+15:21:18,89 root INFO Response status code: 502
+15:21:18,89 root INFO Content of the request no. 33: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:18,89 root INFO Request executed in :0.039
+
+15:21:18,128 root INFO Request: 34
+15:21:18,186 root INFO Response status code: 502
+15:21:18,186 root INFO Content of the request no. 34: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:18,186 root INFO Request executed in :0.058
+
+15:21:18,219 root INFO Request: 35
+15:21:19,289 root INFO Response status code: 502
+15:21:19,289 root INFO Content of the request no. 35: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:19,289 root INFO Request executed in :1.070
+
+15:21:19,332 root INFO Request: 36
+15:21:19,395 root INFO Response status code: 502
+15:21:19,395 root INFO Content of the request no. 36: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:19,395 root INFO Request executed in :0.063
+
+15:21:19,425 root INFO Request: 37
+15:21:19,481 root INFO Response status code: 502
+15:21:19,481 root INFO Content of the request no. 37: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:19,481 root INFO Request executed in :0.055
+
+15:21:19,519 root INFO Request: 38
+15:21:19,581 root INFO Response status code: 502
+15:21:19,581 root INFO Content of the request no. 38: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:19,583 root INFO Request executed in :0.062
+
+15:21:19,611 root INFO Request: 39
+15:21:19,660 root INFO Response status code: 502
+15:21:19,660 root INFO Content of the request no. 39: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:19,660 root INFO Request executed in :0.049
+
+15:21:19,690 root INFO Request: 40
+15:21:19,741 root INFO Response status code: 502
+15:21:19,741 root INFO Content of the request no. 40: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:19,741 root INFO Request executed in :0.051
+
+15:21:19,781 root INFO Request: 41
+15:21:19,835 root INFO Response status code: 502
+15:21:19,835 root INFO Content of the request no. 41: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:19,836 root INFO Request executed in :0.055
+
+15:21:19,873 root INFO Request: 42
+15:21:19,943 root INFO Response status code: 502
+15:21:19,943 root INFO Content of the request no. 42: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:19,943 root INFO Request executed in :0.070
+
+15:21:19,982 root INFO Request: 43
+15:21:20,43 root INFO Response status code: 502
+15:21:20,43 root INFO Content of the request no. 43: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:20,43 root INFO Request executed in :0.061
+
+15:21:20,75 root INFO Request: 44
+15:21:20,120 root INFO Response status code: 502
+15:21:20,121 root INFO Content of the request no. 44: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:20,121 root INFO Request executed in :0.045
+
+15:21:20,153 root INFO Request: 45
+15:21:22,281 root INFO Response status code: 502
+15:21:22,282 root INFO Content of the request no. 45: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:22,282 root INFO Request executed in :2.129
+
+15:21:22,310 root INFO Request: 46
+15:21:22,505 root INFO Response status code: 502
+15:21:22,506 root INFO Content of the request no. 46: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:22,506 root INFO Request executed in :0.196
+
+15:21:22,543 root INFO Request: 47
+15:21:22,630 root INFO Response status code: 502
+15:21:22,630 root INFO Content of the request no. 47: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:22,630 root INFO Request executed in :0.087
+
+15:21:22,667 root INFO Request: 48
+15:21:22,736 root INFO Response status code: 502
+15:21:22,736 root INFO Content of the request no. 48: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:22,736 root INFO Request executed in :0.068
+
+15:21:22,759 root INFO Request: 49
+15:21:22,907 root INFO Response status code: 502
+15:21:22,907 root INFO Content of the request no. 49: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:22,907 root INFO Request executed in :0.148
+
+15:21:22,930 root INFO Request: 50
+15:21:23,48 root INFO Response status code: 502
+15:21:23,48 root INFO Content of the request no. 50: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:23,48 root INFO Request executed in :0.117
+
+15:21:23,70 root INFO Request: 51
+15:21:23,126 root INFO Response status code: 502
+15:21:23,127 root INFO Content of the request no. 51: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:23,127 root INFO Request executed in :0.057
+
+15:21:23,148 root INFO Request: 52
+15:21:23,229 root INFO Response status code: 502
+15:21:23,229 root INFO Content of the request no. 52: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:23,229 root INFO Request executed in :0.080
+
+15:21:23,256 root INFO Request: 53
+15:21:23,333 root INFO Response status code: 502
+15:21:23,333 root INFO Content of the request no. 53: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:23,333 root INFO Request executed in :0.077
+
+15:21:23,364 root INFO Request: 54
+15:21:23,436 root INFO Response status code: 502
+15:21:23,436 root INFO Content of the request no. 54: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:23,436 root INFO Request executed in :0.072
+
+15:21:23,457 root INFO Request: 55
+15:21:23,539 root INFO Response status code: 502
+15:21:23,540 root INFO Content of the request no. 55: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:23,540 root INFO Request executed in :0.081
+
+15:21:23,565 root INFO Request: 56
+15:21:23,630 root INFO Response status code: 502
+15:21:23,630 root INFO Content of the request no. 56: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:23,630 root INFO Request executed in :0.065
+
+15:21:23,657 root INFO Request: 57
+15:21:23,961 root INFO Response status code: 502
+15:21:23,961 root INFO Content of the request no. 57: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:23,961 root INFO Request executed in :0.303
+
+15:21:23,985 root INFO Request: 58
+15:21:24,62 root INFO Response status code: 502
+15:21:24,62 root INFO Content of the request no. 58: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:24,62 root INFO Request executed in :0.077
+
+15:21:24,93 root INFO Request: 59
+15:21:24,159 root INFO Response status code: 502
+15:21:24,159 root INFO Content of the request no. 59: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:24,159 root INFO Request executed in :0.066
+
+15:21:24,186 root INFO Request: 60
+15:21:24,243 root INFO Response status code: 502
+15:21:24,243 root INFO Content of the request no. 60: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:24,243 root INFO Request executed in :0.058
+
+15:21:24,264 root INFO Request: 61
+15:21:24,350 root INFO Response status code: 502
+15:21:24,351 root INFO Content of the request no. 61: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:24,351 root INFO Request executed in :0.086
+
+15:21:24,372 root INFO Request: 62
+15:21:24,435 root INFO Response status code: 502
+15:21:24,436 root INFO Content of the request no. 62: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:24,436 root INFO Request executed in :0.064
+
+15:21:24,464 root INFO Request: 63
+15:21:25,90 root INFO Response status code: 502
+15:21:25,90 root INFO Content of the request no. 63: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:25,90 root INFO Request executed in :0.625
+
+15:21:25,117 root INFO Request: 64
+15:21:25,179 root INFO Response status code: 502
+15:21:25,179 root INFO Content of the request no. 64: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:25,179 root INFO Request executed in :0.062
+
+15:21:25,209 root INFO Request: 65
+15:21:25,271 root INFO Response status code: 502
+15:21:25,271 root INFO Content of the request no. 65: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:25,271 root INFO Request executed in :0.061
+
+15:21:25,301 root INFO Request: 66
+15:21:26,383 root INFO Response status code: 502
+15:21:26,383 root INFO Content of the request no. 66: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:26,383 root INFO Request executed in :1.082
+
+15:21:26,406 root INFO Request: 67
+15:21:26,479 root INFO Response status code: 502
+15:21:26,479 root INFO Content of the request no. 67: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:26,479 root INFO Request executed in :0.074
+
+15:21:26,499 root INFO Request: 68
+15:21:26,578 root INFO Response status code: 502
+15:21:26,578 root INFO Content of the request no. 68: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:26,578 root INFO Request executed in :0.079
+
+15:21:26,607 root INFO Request: 69
+15:21:26,709 root INFO Response status code: 502
+15:21:26,709 root INFO Content of the request no. 69: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:26,709 root INFO Request executed in :0.102
+
+15:21:26,732 root INFO Request: 70
+15:21:26,890 root INFO Response status code: 502
+15:21:26,890 root INFO Content of the request no. 70: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:26,890 root INFO Request executed in :0.158
+
+15:21:26,920 root INFO Request: 71
+15:21:26,981 root INFO Response status code: 502
+15:21:26,981 root INFO Content of the request no. 71: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:26,981 root INFO Request executed in :0.061
+
+15:21:26,998 root INFO Request: 72
+15:21:27,73 root INFO Response status code: 502
+15:21:27,73 root INFO Content of the request no. 72: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,73 root INFO Request executed in :0.074
+
+15:21:27,91 root INFO Request: 73
+15:21:27,186 root INFO Response status code: 502
+15:21:27,186 root INFO Content of the request no. 73: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,186 root INFO Request executed in :0.094
+
+15:21:27,215 root INFO Request: 74
+15:21:27,302 root INFO Response status code: 502
+15:21:27,302 root INFO Content of the request no. 74: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,302 root INFO Request executed in :0.086
+
+15:21:27,324 root INFO Request: 75
+15:21:27,403 root INFO Response status code: 502
+15:21:27,404 root INFO Content of the request no. 75: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,404 root INFO Request executed in :0.080
+
+15:21:27,432 root INFO Request: 76
+15:21:27,502 root INFO Response status code: 502
+15:21:27,504 root INFO Content of the request no. 76: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,504 root INFO Request executed in :0.070
+
+15:21:27,526 root INFO Request: 77
+15:21:27,588 root INFO Response status code: 502
+15:21:27,589 root INFO Content of the request no. 77: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,589 root INFO Request executed in :0.062
+
+15:21:27,603 root INFO Request: 78
+15:21:27,676 root INFO Response status code: 502
+15:21:27,676 root INFO Content of the request no. 78: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,676 root INFO Request executed in :0.073
+
+15:21:27,695 root INFO Request: 79
+15:21:27,748 root INFO Response status code: 502
+15:21:27,748 root INFO Content of the request no. 79: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,748 root INFO Request executed in :0.053
+
+15:21:27,773 root INFO Request: 80
+15:21:27,844 root INFO Response status code: 502
+15:21:27,844 root INFO Content of the request no. 80: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,844 root INFO Request executed in :0.070
+
+15:21:27,867 root INFO Request: 81
+15:21:27,929 root INFO Response status code: 502
+15:21:27,929 root INFO Content of the request no. 81: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:27,929 root INFO Request executed in :0.062
+
+15:21:27,943 root INFO Request: 82
+15:21:28,3 root INFO Response status code: 502
+15:21:28,3 root INFO Content of the request no. 82: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:28,3 root INFO Request executed in :0.060
+
+15:21:28,19 root INFO Request: 83
+15:21:28,95 root INFO Response status code: 502
+15:21:28,96 root INFO Content of the request no. 83: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:28,96 root INFO Request executed in :0.077
+
+15:21:28,112 root INFO Request: 84
+15:21:28,461 root INFO Response status code: 502
+15:21:28,461 root INFO Content of the request no. 84: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:28,461 root INFO Request executed in :0.350
+
+15:21:28,486 root INFO Request: 85
+15:21:28,533 root INFO Response status code: 502
+15:21:28,533 root INFO Content of the request no. 85: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:28,533 root INFO Request executed in :0.047
+
+15:21:28,548 root INFO Request: 86
+15:21:28,607 root INFO Response status code: 502
+15:21:28,607 root INFO Content of the request no. 86: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:28,607 root INFO Request executed in :0.058
+
+15:21:28,626 root INFO Request: 87
+15:21:28,991 root INFO Response status code: 502
+15:21:28,991 root INFO Content of the request no. 87: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:28,991 root INFO Request executed in :0.365
+
+15:21:29,14 root INFO Request: 88
+15:21:29,382 root INFO Response status code: 502
+15:21:29,382 root INFO Content of the request no. 88: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:29,382 root INFO Request executed in :0.367
+
+15:21:29,404 root INFO Request: 89
+15:21:29,452 root INFO Response status code: 502
+15:21:29,452 root INFO Content of the request no. 89: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:29,452 root INFO Request executed in :0.049
+
+15:21:29,466 root INFO Request: 90
+15:21:29,541 root INFO Response status code: 502
+15:21:29,541 root INFO Content of the request no. 90: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:29,541 root INFO Request executed in :0.075
+
+15:21:29,558 root INFO Request: 91
+15:21:29,623 root INFO Response status code: 502
+15:21:29,623 root INFO Content of the request no. 91: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:29,623 root INFO Request executed in :0.064
+
+15:21:29,637 root INFO Request: 92
+15:21:30,690 root INFO Response status code: 502
+15:21:30,690 root INFO Content of the request no. 92: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:30,691 root INFO Request executed in :1.054
+
+15:21:30,706 root INFO Request: 93
+15:21:30,751 root INFO Response status code: 502
+15:21:30,751 root INFO Content of the request no. 93: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:30,751 root INFO Request executed in :0.046
+
+15:21:30,769 root INFO Request: 94
+15:21:30,813 root INFO Response status code: 502
+15:21:30,814 root INFO Content of the request no. 94: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:30,814 root INFO Request executed in :0.046
+
+15:21:30,831 root INFO Request: 95
+15:21:30,875 root INFO Response status code: 502
+15:21:30,875 root INFO Content of the request no. 95: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:30,875 root INFO Request executed in :0.044
+
+15:21:30,894 root INFO Request: 96
+15:21:30,948 root INFO Response status code: 502
+15:21:30,949 root INFO Content of the request no. 96: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:30,949 root INFO Request executed in :0.055
+
+15:21:30,971 root INFO Request: 97
+15:21:31,28 root INFO Response status code: 502
+15:21:31,28 root INFO Content of the request no. 97: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:31,28 root INFO Request executed in :0.056
+
+15:21:31,49 root INFO Request: 98
+15:21:31,101 root INFO Response status code: 502
+15:21:31,101 root INFO Content of the request no. 98: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:31,101 root INFO Request executed in :0.052
+
+15:21:31,112 root INFO Request: 99
+15:21:31,160 root INFO Response status code: 502
+15:21:31,160 root INFO Content of the request no. 99: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:21:31,160 root INFO Request executed in :0.048
+
+15:21:31,174 root INFO Total time for execution 15.340447902679443
+15:28:28,436 root INFO Request: 0
+15:28:28,545 root INFO Response status code: 502
+15:28:28,545 root INFO Content of the request no. 0: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:28,545 root INFO Request executed in :0.109
+
+15:28:28,547 root INFO Request: 1
+15:28:28,641 root INFO Response status code: 502
+15:28:28,641 root INFO Content of the request no. 1: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:28,641 root INFO Request executed in :0.093
+
+15:28:29,652 root INFO Request: 2
+15:28:29,720 root INFO Response status code: 502
+15:28:29,720 root INFO Content of the request no. 2: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:29,720 root INFO Request executed in :0.068
+
+15:28:30,225 root INFO Request: 3
+15:28:30,292 root INFO Response status code: 502
+15:28:30,292 root INFO Content of the request no. 3: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:30,292 root INFO Request executed in :0.065
+
+15:28:30,630 root INFO Request: 4
+15:28:30,694 root INFO Response status code: 502
+15:28:30,694 root INFO Content of the request no. 4: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:30,694 root INFO Request executed in :0.064
+
+15:28:30,955 root INFO Request: 5
+15:28:32,15 root INFO Response status code: 502
+15:28:32,15 root INFO Content of the request no. 5: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:32,15 root INFO Request executed in :1.059
+
+15:28:32,223 root INFO Request: 6
+15:28:32,278 root INFO Response status code: 502
+15:28:32,278 root INFO Content of the request no. 6: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:32,278 root INFO Request executed in :0.054
+
+15:28:32,456 root INFO Request: 7
+15:28:32,516 root INFO Response status code: 502
+15:28:32,516 root INFO Content of the request no. 7: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:32,516 root INFO Request executed in :0.060
+
+15:28:32,674 root INFO Request: 8
+15:28:32,746 root INFO Response status code: 502
+15:28:32,746 root INFO Content of the request no. 8: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:32,746 root INFO Request executed in :0.070
+
+15:28:32,877 root INFO Request: 9
+15:28:32,945 root INFO Response status code: 502
+15:28:32,945 root INFO Content of the request no. 9: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:32,945 root INFO Request executed in :0.067
+
+15:28:33,60 root INFO Request: 10
+15:28:33,129 root INFO Response status code: 502
+15:28:33,130 root INFO Content of the request no. 10: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:33,130 root INFO Request executed in :0.070
+
+15:28:33,246 root INFO Request: 11
+15:28:33,291 root INFO Response status code: 502
+15:28:33,291 root INFO Content of the request no. 11: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:33,291 root INFO Request executed in :0.045
+
+15:28:33,385 root INFO Request: 12
+15:28:33,445 root INFO Response status code: 502
+15:28:33,445 root INFO Content of the request no. 12: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:33,445 root INFO Request executed in :0.060
+
+15:28:33,542 root INFO Request: 13
+15:28:34,614 root INFO Response status code: 502
+15:28:34,614 root INFO Content of the request no. 13: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:34,615 root INFO Request executed in :1.072
+
+15:28:34,705 root INFO Request: 14
+15:28:34,820 root INFO Response status code: 502
+15:28:34,820 root INFO Content of the request no. 14: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:34,820 root INFO Request executed in :0.115
+
+15:28:34,907 root INFO Request: 15
+15:28:34,957 root INFO Response status code: 502
+15:28:34,957 root INFO Content of the request no. 15: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:34,957 root INFO Request executed in :0.050
+
+15:28:35,32 root INFO Request: 16
+15:28:36,131 root INFO Response status code: 502
+15:28:36,132 root INFO Content of the request no. 16: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:36,132 root INFO Request executed in :1.100
+
+15:28:36,207 root INFO Request: 17
+15:28:36,295 root INFO Response status code: 502
+15:28:36,295 root INFO Content of the request no. 17: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:36,295 root INFO Request executed in :0.088
+
+15:28:36,362 root INFO Request: 18
+15:28:36,464 root INFO Response status code: 502
+15:28:36,464 root INFO Content of the request no. 18: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:36,464 root INFO Request executed in :0.102
+
+15:28:36,533 root INFO Request: 19
+15:28:36,645 root INFO Response status code: 502
+15:28:36,645 root INFO Content of the request no. 19: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:36,645 root INFO Request executed in :0.113
+
+15:28:36,699 root INFO Request: 20
+15:28:36,812 root INFO Response status code: 502
+15:28:36,812 root INFO Content of the request no. 20: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:36,812 root INFO Request executed in :0.111
+
+15:28:36,869 root INFO Request: 21
+15:28:36,921 root INFO Response status code: 502
+15:28:36,921 root INFO Content of the request no. 21: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:36,921 root INFO Request executed in :0.051
+
+15:28:36,978 root INFO Request: 22
+15:28:37,254 root INFO Response status code: 502
+15:28:37,254 root INFO Content of the request no. 22: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:37,254 root INFO Request executed in :0.277
+
+15:28:37,303 root INFO Request: 23
+15:28:37,401 root INFO Response status code: 502
+15:28:37,401 root INFO Content of the request no. 23: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:37,401 root INFO Request executed in :0.099
+
+15:28:37,457 root INFO Request: 24
+15:28:37,567 root INFO Response status code: 502
+15:28:37,567 root INFO Content of the request no. 24: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:37,567 root INFO Request executed in :0.109
+
+15:28:37,614 root INFO Request: 25
+15:28:37,810 root INFO Response status code: 502
+15:28:37,810 root INFO Content of the request no. 25: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:37,810 root INFO Request executed in :0.196
+
+15:28:37,859 root INFO Request: 26
+15:28:37,947 root INFO Response status code: 502
+15:28:37,948 root INFO Content of the request no. 26: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:37,948 root INFO Request executed in :0.090
+
+15:28:37,998 root INFO Request: 27
+15:28:39,81 root INFO Response status code: 502
+15:28:39,81 root INFO Content of the request no. 27: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:39,81 root INFO Request executed in :1.083
+
+15:28:39,128 root INFO Request: 28
+15:28:39,202 root INFO Response status code: 502
+15:28:39,202 root INFO Content of the request no. 28: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:39,202 root INFO Request executed in :0.073
+
+15:28:39,252 root INFO Request: 29
+15:28:39,320 root INFO Response status code: 502
+15:28:39,320 root INFO Content of the request no. 29: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:39,320 root INFO Request executed in :0.068
+
+15:28:39,360 root INFO Request: 30
+15:28:39,460 root INFO Response status code: 502
+15:28:39,460 root INFO Content of the request no. 30: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:39,460 root INFO Request executed in :0.098
+
+15:28:39,500 root INFO Request: 31
+15:28:40,561 root INFO Response status code: 502
+15:28:40,561 root INFO Content of the request no. 31: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:40,561 root INFO Request executed in :1.061
+
+15:28:40,606 root INFO Request: 32
+15:28:40,662 root INFO Response status code: 502
+15:28:40,662 root INFO Content of the request no. 32: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:40,662 root INFO Request executed in :0.056
+
+15:28:40,699 root INFO Request: 33
+15:28:40,761 root INFO Response status code: 502
+15:28:40,761 root INFO Content of the request no. 33: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:40,761 root INFO Request executed in :0.062
+
+15:28:40,806 root INFO Request: 34
+15:28:40,869 root INFO Response status code: 502
+15:28:40,869 root INFO Content of the request no. 34: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:40,869 root INFO Request executed in :0.063
+
+15:28:40,915 root INFO Request: 35
+15:28:40,977 root INFO Response status code: 502
+15:28:40,978 root INFO Content of the request no. 35: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:40,978 root INFO Request executed in :0.063
+
+15:28:41,22 root INFO Request: 36
+15:28:41,461 root INFO Response status code: 502
+15:28:41,461 root INFO Content of the request no. 36: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:41,461 root INFO Request executed in :0.438
+
+15:28:41,502 root INFO Request: 37
+15:28:41,581 root INFO Response status code: 502
+15:28:41,581 root INFO Content of the request no. 37: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:41,581 root INFO Request executed in :0.078
+
+15:28:41,610 root INFO Request: 38
+15:28:42,702 root INFO Response status code: 502
+15:28:42,702 root INFO Content of the request no. 38: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:42,702 root INFO Request executed in :1.092
+
+15:28:42,742 root INFO Request: 39
+15:28:42,829 root INFO Response status code: 502
+15:28:42,829 root INFO Content of the request no. 39: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:42,829 root INFO Request executed in :0.087
+
+15:28:42,865 root INFO Request: 40
+15:28:42,968 root INFO Response status code: 502
+15:28:42,968 root INFO Content of the request no. 40: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:42,968 root INFO Request executed in :0.103
+
+15:28:43,4 root INFO Request: 41
+15:28:43,202 root INFO Response status code: 502
+15:28:43,202 root INFO Content of the request no. 41: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:43,202 root INFO Request executed in :0.198
+
+15:28:43,237 root INFO Request: 42
+15:28:43,580 root INFO Response status code: 502
+15:28:43,580 root INFO Content of the request no. 42: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:43,580 root INFO Request executed in :0.343
+
+15:28:43,609 root INFO Request: 43
+15:28:43,990 root INFO Response status code: 502
+15:28:43,990 root INFO Content of the request no. 43: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:43,990 root INFO Request executed in :0.382
+
+15:28:44,15 root INFO Request: 44
+15:28:44,87 root INFO Response status code: 502
+15:28:44,87 root INFO Content of the request no. 44: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:44,87 root INFO Request executed in :0.073
+
+15:28:44,125 root INFO Request: 45
+15:28:44,184 root INFO Response status code: 502
+15:28:44,184 root INFO Content of the request no. 45: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:44,184 root INFO Request executed in :0.058
+
+15:28:44,218 root INFO Request: 46
+15:28:44,324 root INFO Response status code: 502
+15:28:44,324 root INFO Content of the request no. 46: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:44,324 root INFO Request executed in :0.105
+
+15:28:44,358 root INFO Request: 47
+15:28:44,500 root INFO Response status code: 502
+15:28:44,500 root INFO Content of the request no. 47: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:44,500 root INFO Request executed in :0.142
+
+15:28:44,529 root INFO Request: 48
+15:28:44,606 root INFO Response status code: 502
+15:28:44,606 root INFO Content of the request no. 48: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:44,606 root INFO Request executed in :0.077
+
+15:28:44,639 root INFO Request: 49
+15:28:44,714 root INFO Response status code: 502
+15:28:44,714 root INFO Content of the request no. 49: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:44,714 root INFO Request executed in :0.075
+
+15:28:44,748 root INFO Request: 50
+15:28:44,838 root INFO Response status code: 502
+15:28:44,838 root INFO Content of the request no. 50: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:44,838 root INFO Request executed in :0.091
+
+15:28:44,872 root INFO Request: 51
+15:28:44,989 root INFO Response status code: 502
+15:28:44,989 root INFO Content of the request no. 51: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:44,990 root INFO Request executed in :0.118
+
+15:28:45,10 root INFO Request: 52
+15:28:45,131 root INFO Response status code: 502
+15:28:45,131 root INFO Content of the request no. 52: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:45,132 root INFO Request executed in :0.121
+
+15:28:45,164 root INFO Request: 53
+15:28:45,226 root INFO Response status code: 502
+15:28:45,226 root INFO Content of the request no. 53: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:45,226 root INFO Request executed in :0.063
+
+15:28:45,257 root INFO Request: 54
+15:28:45,597 root INFO Response status code: 502
+15:28:45,597 root INFO Content of the request no. 54: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:45,597 root INFO Request executed in :0.340
+
+15:28:45,628 root INFO Request: 55
+15:28:45,719 root INFO Response status code: 502
+15:28:45,719 root INFO Content of the request no. 55: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:45,719 root INFO Request executed in :0.090
+
+15:28:45,753 root INFO Request: 56
+15:28:45,810 root INFO Response status code: 502
+15:28:45,810 root INFO Content of the request no. 56: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:45,810 root INFO Request executed in :0.057
+
+15:28:45,830 root INFO Request: 57
+15:28:45,938 root INFO Response status code: 502
+15:28:45,939 root INFO Content of the request no. 57: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:45,939 root INFO Request executed in :0.109
+
+15:28:45,971 root INFO Request: 58
+15:28:46,32 root INFO Response status code: 502
+15:28:46,32 root INFO Content of the request no. 58: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:46,32 root INFO Request executed in :0.061
+
+15:28:46,65 root INFO Request: 59
+15:28:46,111 root INFO Response status code: 502
+15:28:46,111 root INFO Content of the request no. 59: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:46,112 root INFO Request executed in :0.047
+
+15:28:46,143 root INFO Request: 60
+15:28:46,190 root INFO Response status code: 502
+15:28:46,190 root INFO Content of the request no. 60: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:46,191 root INFO Request executed in :0.047
+
+15:28:46,220 root INFO Request: 61
+15:28:46,273 root INFO Response status code: 502
+15:28:46,274 root INFO Content of the request no. 61: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:46,274 root INFO Request executed in :0.054
+
+15:28:46,297 root INFO Request: 62
+15:28:46,358 root INFO Response status code: 502
+15:28:46,358 root INFO Content of the request no. 62: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:46,359 root INFO Request executed in :0.061
+
+15:28:46,390 root INFO Request: 63
+15:28:46,498 root INFO Response status code: 502
+15:28:46,499 root INFO Content of the request no. 63: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:46,499 root INFO Request executed in :0.109
+
+15:28:46,531 root INFO Request: 64
+15:28:46,599 root INFO Response status code: 502
+15:28:46,599 root INFO Content of the request no. 64: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:46,599 root INFO Request executed in :0.068
+
+15:28:46,623 root INFO Request: 65
+15:28:46,903 root INFO Response status code: 502
+15:28:46,903 root INFO Content of the request no. 65: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:46,903 root INFO Request executed in :0.280
+
+15:28:46,951 root INFO Request: 66
+15:28:47,135 root INFO Response status code: 502
+15:28:47,135 root INFO Content of the request no. 66: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:47,135 root INFO Request executed in :0.184
+
+15:28:47,166 root INFO Request: 67
+15:28:47,218 root INFO Response status code: 502
+15:28:47,218 root INFO Content of the request no. 67: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:47,218 root INFO Request executed in :0.053
+
+15:28:47,246 root INFO Request: 68
+15:28:47,300 root INFO Response status code: 502
+15:28:47,300 root INFO Content of the request no. 68: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:47,300 root INFO Request executed in :0.054
+
+15:28:47,324 root INFO Request: 69
+15:28:47,373 root INFO Response status code: 502
+15:28:47,373 root INFO Content of the request no. 69: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:47,373 root INFO Request executed in :0.049
+
+15:28:47,400 root INFO Request: 70
+15:28:47,458 root INFO Response status code: 502
+15:28:47,458 root INFO Content of the request no. 70: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:47,458 root INFO Request executed in :0.058
+
+15:28:47,479 root INFO Request: 71
+15:28:48,597 root INFO Response status code: 502
+15:28:48,598 root INFO Content of the request no. 71: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:48,598 root INFO Request executed in :1.119
+
+15:28:48,623 root INFO Request: 72
+15:28:48,668 root INFO Response status code: 502
+15:28:48,669 root INFO Content of the request no. 72: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:48,669 root INFO Request executed in :0.047
+
+15:28:48,684 root INFO Request: 73
+15:28:49,795 root INFO Response status code: 502
+15:28:49,796 root INFO Content of the request no. 73: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:49,796 root INFO Request executed in :1.112
+
+15:28:49,816 root INFO Request: 74
+15:28:49,910 root INFO Response status code: 502
+15:28:49,911 root INFO Content of the request no. 74: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:49,911 root INFO Request executed in :0.094
+
+15:28:49,926 root INFO Request: 75
+15:28:50,25 root INFO Response status code: 502
+15:28:50,25 root INFO Content of the request no. 75: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:50,25 root INFO Request executed in :0.099
+
+15:28:50,49 root INFO Request: 76
+15:28:50,136 root INFO Response status code: 502
+15:28:50,136 root INFO Content of the request no. 76: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:50,136 root INFO Request executed in :0.087
+
+15:28:50,157 root INFO Request: 77
+15:28:50,261 root INFO Response status code: 502
+15:28:50,261 root INFO Content of the request no. 77: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:50,261 root INFO Request executed in :0.103
+
+15:28:50,281 root INFO Request: 78
+15:28:50,392 root INFO Response status code: 502
+15:28:50,392 root INFO Content of the request no. 78: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:50,392 root INFO Request executed in :0.110
+
+15:28:50,406 root INFO Request: 79
+15:28:50,484 root INFO Response status code: 502
+15:28:50,484 root INFO Content of the request no. 79: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:50,485 root INFO Request executed in :0.078
+
+15:28:50,498 root INFO Request: 80
+15:28:51,974 root INFO Response status code: 502
+15:28:51,974 root INFO Content of the request no. 80: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:51,974 root INFO Request executed in :1.475
+
+15:28:51,990 root INFO Request: 81
+15:28:52,61 root INFO Response status code: 502
+15:28:52,61 root INFO Content of the request no. 81: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:52,61 root INFO Request executed in :0.071
+
+15:28:52,82 root INFO Request: 82
+15:28:52,157 root INFO Response status code: 502
+15:28:52,157 root INFO Content of the request no. 82: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:52,157 root INFO Request executed in :0.076
+
+15:28:52,174 root INFO Request: 83
+15:28:53,279 root INFO Response status code: 502
+15:28:53,279 root INFO Content of the request no. 83: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:53,279 root INFO Request executed in :1.105
+
+15:28:53,303 root INFO Request: 84
+15:28:53,419 root INFO Response status code: 502
+15:28:53,419 root INFO Content of the request no. 84: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:53,419 root INFO Request executed in :0.116
+
+15:28:53,442 root INFO Request: 85
+15:28:53,519 root INFO Response status code: 502
+15:28:53,519 root INFO Content of the request no. 85: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:53,519 root INFO Request executed in :0.078
+
+15:28:53,535 root INFO Request: 86
+15:28:53,586 root INFO Response status code: 502
+15:28:53,586 root INFO Content of the request no. 86: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:53,586 root INFO Request executed in :0.051
+
+15:28:53,611 root INFO Request: 87
+15:28:53,719 root INFO Response status code: 502
+15:28:53,720 root INFO Content of the request no. 87: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:53,720 root INFO Request executed in :0.110
+
+15:28:53,735 root INFO Request: 88
+15:28:53,801 root INFO Response status code: 502
+15:28:53,801 root INFO Content of the request no. 88: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:53,802 root INFO Request executed in :0.067
+
+15:28:53,827 root INFO Request: 89
+15:28:53,911 root INFO Response status code: 502
+15:28:53,911 root INFO Content of the request no. 89: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:53,911 root INFO Request executed in :0.085
+
+15:28:53,936 root INFO Request: 90
+15:28:54,23 root INFO Response status code: 502
+15:28:54,23 root INFO Content of the request no. 90: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:54,24 root INFO Request executed in :0.086
+
+15:28:54,47 root INFO Request: 91
+15:28:54,127 root INFO Response status code: 502
+15:28:54,128 root INFO Content of the request no. 91: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:54,128 root INFO Request executed in :0.082
+
+15:28:54,154 root INFO Request: 92
+15:28:54,224 root INFO Response status code: 502
+15:28:54,225 root INFO Content of the request no. 92: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:54,225 root INFO Request executed in :0.071
+
+15:28:54,244 root INFO Request: 93
+15:28:54,412 root INFO Response status code: 502
+15:28:54,412 root INFO Content of the request no. 93: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:54,413 root INFO Request executed in :0.169
+
+15:28:54,432 root INFO Request: 94
+15:28:54,514 root INFO Response status code: 502
+15:28:54,514 root INFO Content of the request no. 94: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:54,514 root INFO Request executed in :0.083
+
+15:28:54,540 root INFO Request: 95
+15:28:54,679 root INFO Response status code: 502
+15:28:54,679 root INFO Content of the request no. 95: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:54,679 root INFO Request executed in :0.139
+
+15:28:54,693 root INFO Request: 96
+15:28:54,785 root INFO Response status code: 502
+15:28:54,785 root INFO Content of the request no. 96: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:54,785 root INFO Request executed in :0.092
+
+15:28:54,801 root INFO Request: 97
+15:28:54,959 root INFO Response status code: 502
+15:28:54,959 root INFO Content of the request no. 97: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:54,959 root INFO Request executed in :0.158
+
+15:28:54,971 root INFO Request: 98
+15:28:55,48 root INFO Response status code: 502
+15:28:55,48 root INFO Content of the request no. 98: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:55,49 root INFO Request executed in :0.077
+
+15:28:55,64 root INFO Request: 99
+15:28:55,150 root INFO Response status code: 502
+15:28:55,150 root INFO Content of the request no. 99: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+15:28:55,150 root INFO Request executed in :0.086
+
+15:28:55,174 root INFO Total time for execution 20.571686267852783
+08:43:12,467 root INFO Request: 0
+08:43:12,596 root INFO Response status code: 502
+08:43:12,596 root INFO Content of the request no. 0: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:12,596 root INFO Request executed in :0.128
+
+08:43:12,598 root INFO Request: 1
+08:43:12,663 root INFO Response status code: 502
+08:43:12,663 root INFO Content of the request no. 1: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:12,663 root INFO Request executed in :0.064
+
+08:43:13,677 root INFO Request: 2
+08:43:13,742 root INFO Response status code: 502
+08:43:13,742 root INFO Content of the request no. 2: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:13,743 root INFO Request executed in :0.066
+
+08:43:14,256 root INFO Request: 3
+08:43:14,321 root INFO Response status code: 502
+08:43:14,321 root INFO Content of the request no. 3: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:14,322 root INFO Request executed in :0.065
+
+08:43:14,661 root INFO Request: 4
+08:43:14,727 root INFO Response status code: 502
+08:43:14,727 root INFO Content of the request no. 4: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:14,727 root INFO Request executed in :0.066
+
+08:43:14,989 root INFO Request: 5
+08:43:15,54 root INFO Response status code: 502
+08:43:15,54 root INFO Content of the request no. 5: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:15,54 root INFO Request executed in :0.065
+
+08:43:15,257 root INFO Request: 6
+08:43:15,332 root INFO Response status code: 502
+08:43:15,332 root INFO Content of the request no. 6: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:15,332 root INFO Request executed in :0.075
+
+08:43:15,509 root INFO Request: 7
+08:43:15,573 root INFO Response status code: 502
+08:43:15,573 root INFO Content of the request no. 7: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:15,573 root INFO Request executed in :0.064
+
+08:43:15,729 root INFO Request: 8
+08:43:15,793 root INFO Response status code: 502
+08:43:15,793 root INFO Content of the request no. 8: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:15,793 root INFO Request executed in :0.064
+
+08:43:15,931 root INFO Request: 9
+08:43:15,995 root INFO Response status code: 502
+08:43:15,995 root INFO Content of the request no. 9: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:15,995 root INFO Request executed in :0.064
+
+08:43:16,117 root INFO Request: 10
+08:43:16,174 root INFO Response status code: 502
+08:43:16,174 root INFO Content of the request no. 10: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:16,174 root INFO Request executed in :0.057
+
+08:43:16,289 root INFO Request: 11
+08:43:16,351 root INFO Response status code: 502
+08:43:16,351 root INFO Content of the request no. 11: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:16,351 root INFO Request executed in :0.062
+
+08:43:16,446 root INFO Request: 12
+08:43:16,507 root INFO Response status code: 502
+08:43:16,507 root INFO Content of the request no. 12: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:16,507 root INFO Request executed in :0.061
+
+08:43:16,606 root INFO Request: 13
+08:43:16,669 root INFO Response status code: 502
+08:43:16,669 root INFO Content of the request no. 13: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:16,669 root INFO Request executed in :0.063
+
+08:43:16,762 root INFO Request: 14
+08:43:16,833 root INFO Response status code: 502
+08:43:16,834 root INFO Content of the request no. 14: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:16,834 root INFO Request executed in :0.072
+
+08:43:16,917 root INFO Request: 15
+08:43:16,980 root INFO Response status code: 502
+08:43:16,980 root INFO Content of the request no. 15: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:16,980 root INFO Request executed in :0.063
+
+08:43:17,58 root INFO Request: 16
+08:43:17,127 root INFO Response status code: 502
+08:43:17,127 root INFO Content of the request no. 16: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:17,127 root INFO Request executed in :0.069
+
+08:43:17,199 root INFO Request: 17
+08:43:17,265 root INFO Response status code: 502
+08:43:17,265 root INFO Content of the request no. 17: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:17,265 root INFO Request executed in :0.066
+
+08:43:17,340 root INFO Request: 18
+08:43:17,398 root INFO Response status code: 502
+08:43:17,398 root INFO Content of the request no. 18: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:17,398 root INFO Request executed in :0.058
+
+08:43:17,465 root INFO Request: 19
+08:43:17,532 root INFO Response status code: 502
+08:43:17,532 root INFO Content of the request no. 19: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:17,532 root INFO Request executed in :0.067
+
+08:43:17,587 root INFO Request: 20
+08:43:17,649 root INFO Response status code: 502
+08:43:17,649 root INFO Content of the request no. 20: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:17,649 root INFO Request executed in :0.062
+
+08:43:17,714 root INFO Request: 21
+08:43:17,778 root INFO Response status code: 502
+08:43:17,778 root INFO Content of the request no. 21: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:17,778 root INFO Request executed in :0.064
+
+08:43:17,838 root INFO Request: 22
+08:43:17,903 root INFO Response status code: 502
+08:43:17,903 root INFO Content of the request no. 22: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:17,903 root INFO Request executed in :0.065
+
+08:43:17,965 root INFO Request: 23
+08:43:18,28 root INFO Response status code: 502
+08:43:18,28 root INFO Content of the request no. 23: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:18,28 root INFO Request executed in :0.063
+
+08:43:18,74 root INFO Request: 24
+08:43:18,135 root INFO Response status code: 502
+08:43:18,136 root INFO Content of the request no. 24: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:18,136 root INFO Request executed in :0.062
+
+08:43:18,182 root INFO Request: 25
+08:43:18,248 root INFO Response status code: 502
+08:43:18,248 root INFO Content of the request no. 25: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:18,248 root INFO Request executed in :0.066
+
+08:43:18,290 root INFO Request: 26
+08:43:18,358 root INFO Response status code: 502
+08:43:18,358 root INFO Content of the request no. 26: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:18,358 root INFO Request executed in :0.067
+
+08:43:18,398 root INFO Request: 27
+08:43:18,465 root INFO Response status code: 502
+08:43:18,466 root INFO Content of the request no. 27: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:18,466 root INFO Request executed in :0.067
+
+08:43:18,510 root INFO Request: 28
+08:43:18,573 root INFO Response status code: 502
+08:43:18,573 root INFO Content of the request no. 28: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:18,573 root INFO Request executed in :0.063
+
+08:43:18,617 root INFO Request: 29
+08:43:18,681 root INFO Response status code: 502
+08:43:18,681 root INFO Content of the request no. 29: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:18,681 root INFO Request executed in :0.063
+
+08:43:18,726 root INFO Request: 30
+08:43:18,791 root INFO Response status code: 502
+08:43:18,791 root INFO Content of the request no. 30: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:18,791 root INFO Request executed in :0.065
+
+08:43:18,833 root INFO Request: 31
+08:43:18,908 root INFO Response status code: 502
+08:43:18,910 root INFO Content of the request no. 31: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:18,910 root INFO Request executed in :0.076
+
+08:43:18,958 root INFO Request: 32
+08:43:19,26 root INFO Response status code: 502
+08:43:19,26 root INFO Content of the request no. 32: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,26 root INFO Request executed in :0.069
+
+08:43:19,65 root INFO Request: 33
+08:43:19,132 root INFO Response status code: 502
+08:43:19,132 root INFO Content of the request no. 33: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,132 root INFO Request executed in :0.067
+
+08:43:19,173 root INFO Request: 34
+08:43:19,235 root INFO Response status code: 502
+08:43:19,235 root INFO Content of the request no. 34: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,235 root INFO Request executed in :0.062
+
+08:43:19,281 root INFO Request: 35
+08:43:19,346 root INFO Response status code: 502
+08:43:19,346 root INFO Content of the request no. 35: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,346 root INFO Request executed in :0.064
+
+08:43:19,389 root INFO Request: 36
+08:43:19,457 root INFO Response status code: 502
+08:43:19,457 root INFO Content of the request no. 36: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,457 root INFO Request executed in :0.068
+
+08:43:19,497 root INFO Request: 37
+08:43:19,572 root INFO Response status code: 502
+08:43:19,572 root INFO Content of the request no. 37: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,572 root INFO Request executed in :0.074
+
+08:43:19,605 root INFO Request: 38
+08:43:19,670 root INFO Response status code: 502
+08:43:19,670 root INFO Content of the request no. 38: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,670 root INFO Request executed in :0.064
+
+08:43:19,699 root INFO Request: 39
+08:43:19,767 root INFO Response status code: 502
+08:43:19,767 root INFO Content of the request no. 39: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,767 root INFO Request executed in :0.069
+
+08:43:19,808 root INFO Request: 40
+08:43:19,874 root INFO Response status code: 502
+08:43:19,874 root INFO Content of the request no. 40: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,874 root INFO Request executed in :0.065
+
+08:43:19,900 root INFO Request: 41
+08:43:19,963 root INFO Response status code: 502
+08:43:19,963 root INFO Content of the request no. 41: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:19,963 root INFO Request executed in :0.063
+
+08:43:19,994 root INFO Request: 42
+08:43:20,58 root INFO Response status code: 502
+08:43:20,59 root INFO Content of the request no. 42: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,59 root INFO Request executed in :0.065
+
+08:43:20,86 root INFO Request: 43
+08:43:20,150 root INFO Response status code: 502
+08:43:20,150 root INFO Content of the request no. 43: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,150 root INFO Request executed in :0.064
+
+08:43:20,180 root INFO Request: 44
+08:43:20,244 root INFO Response status code: 502
+08:43:20,244 root INFO Content of the request no. 44: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,244 root INFO Request executed in :0.063
+
+08:43:20,275 root INFO Request: 45
+08:43:20,338 root INFO Response status code: 502
+08:43:20,338 root INFO Content of the request no. 45: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,338 root INFO Request executed in :0.063
+
+08:43:20,368 root INFO Request: 46
+08:43:20,432 root INFO Response status code: 502
+08:43:20,433 root INFO Content of the request no. 46: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,433 root INFO Request executed in :0.065
+
+08:43:20,463 root INFO Request: 47
+08:43:20,532 root INFO Response status code: 502
+08:43:20,532 root INFO Content of the request no. 47: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,532 root INFO Request executed in :0.069
+
+08:43:20,558 root INFO Request: 48
+08:43:20,621 root INFO Response status code: 502
+08:43:20,622 root INFO Content of the request no. 48: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,622 root INFO Request executed in :0.064
+
+08:43:20,650 root INFO Request: 49
+08:43:20,712 root INFO Response status code: 502
+08:43:20,712 root INFO Content of the request no. 49: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,712 root INFO Request executed in :0.061
+
+08:43:20,742 root INFO Request: 50
+08:43:20,806 root INFO Response status code: 502
+08:43:20,806 root INFO Content of the request no. 50: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,806 root INFO Request executed in :0.064
+
+08:43:20,834 root INFO Request: 51
+08:43:20,896 root INFO Response status code: 502
+08:43:20,896 root INFO Content of the request no. 51: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,896 root INFO Request executed in :0.062
+
+08:43:20,927 root INFO Request: 52
+08:43:20,992 root INFO Response status code: 502
+08:43:20,992 root INFO Content of the request no. 52: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:20,992 root INFO Request executed in :0.065
+
+08:43:21,21 root INFO Request: 53
+08:43:21,86 root INFO Response status code: 502
+08:43:21,88 root INFO Content of the request no. 53: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,88 root INFO Request executed in :0.066
+
+08:43:21,115 root INFO Request: 54
+08:43:21,179 root INFO Response status code: 502
+08:43:21,179 root INFO Content of the request no. 54: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,180 root INFO Request executed in :0.065
+
+08:43:21,209 root INFO Request: 55
+08:43:21,270 root INFO Response status code: 502
+08:43:21,270 root INFO Content of the request no. 55: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,270 root INFO Request executed in :0.061
+
+08:43:21,302 root INFO Request: 56
+08:43:21,362 root INFO Response status code: 502
+08:43:21,362 root INFO Content of the request no. 56: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,362 root INFO Request executed in :0.060
+
+08:43:21,395 root INFO Request: 57
+08:43:21,472 root INFO Response status code: 502
+08:43:21,472 root INFO Content of the request no. 57: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,473 root INFO Request executed in :0.077
+
+08:43:21,504 root INFO Request: 58
+08:43:21,566 root INFO Response status code: 502
+08:43:21,566 root INFO Content of the request no. 58: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,566 root INFO Request executed in :0.062
+
+08:43:21,596 root INFO Request: 59
+08:43:21,661 root INFO Response status code: 502
+08:43:21,661 root INFO Content of the request no. 59: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,661 root INFO Request executed in :0.065
+
+08:43:21,688 root INFO Request: 60
+08:43:21,750 root INFO Response status code: 502
+08:43:21,750 root INFO Content of the request no. 60: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,750 root INFO Request executed in :0.062
+
+08:43:21,780 root INFO Request: 61
+08:43:21,861 root INFO Response status code: 502
+08:43:21,862 root INFO Content of the request no. 61: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,862 root INFO Request executed in :0.081
+
+08:43:21,890 root INFO Request: 62
+08:43:21,950 root INFO Response status code: 502
+08:43:21,950 root INFO Content of the request no. 62: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:21,950 root INFO Request executed in :0.060
+
+08:43:21,968 root INFO Request: 63
+08:43:22,26 root INFO Response status code: 502
+08:43:22,26 root INFO Content of the request no. 63: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,27 root INFO Request executed in :0.059
+
+08:43:22,46 root INFO Request: 64
+08:43:22,108 root INFO Response status code: 502
+08:43:22,108 root INFO Content of the request no. 64: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,108 root INFO Request executed in :0.063
+
+08:43:22,137 root INFO Request: 65
+08:43:22,209 root INFO Response status code: 502
+08:43:22,209 root INFO Content of the request no. 65: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,209 root INFO Request executed in :0.072
+
+08:43:22,231 root INFO Request: 66
+08:43:22,297 root INFO Response status code: 502
+08:43:22,297 root INFO Content of the request no. 66: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,298 root INFO Request executed in :0.065
+
+08:43:22,325 root INFO Request: 67
+08:43:22,391 root INFO Response status code: 502
+08:43:22,391 root INFO Content of the request no. 67: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,392 root INFO Request executed in :0.067
+
+08:43:22,418 root INFO Request: 68
+08:43:22,485 root INFO Response status code: 502
+08:43:22,485 root INFO Content of the request no. 68: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,485 root INFO Request executed in :0.067
+
+08:43:22,512 root INFO Request: 69
+08:43:22,573 root INFO Response status code: 502
+08:43:22,573 root INFO Content of the request no. 69: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,573 root INFO Request executed in :0.061
+
+08:43:22,589 root INFO Request: 70
+08:43:22,653 root INFO Response status code: 502
+08:43:22,653 root INFO Content of the request no. 70: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,653 root INFO Request executed in :0.063
+
+08:43:22,683 root INFO Request: 71
+08:43:22,742 root INFO Response status code: 502
+08:43:22,742 root INFO Content of the request no. 71: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,742 root INFO Request executed in :0.059
+
+08:43:22,760 root INFO Request: 72
+08:43:22,829 root INFO Response status code: 502
+08:43:22,829 root INFO Content of the request no. 72: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,829 root INFO Request executed in :0.069
+
+08:43:22,853 root INFO Request: 73
+08:43:22,918 root INFO Response status code: 502
+08:43:22,918 root INFO Content of the request no. 73: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:22,918 root INFO Request executed in :0.064
+
+08:43:22,946 root INFO Request: 74
+08:43:23,12 root INFO Response status code: 502
+08:43:23,12 root INFO Content of the request no. 74: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,12 root INFO Request executed in :0.065
+
+08:43:23,39 root INFO Request: 75
+08:43:23,109 root INFO Response status code: 502
+08:43:23,109 root INFO Content of the request no. 75: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,109 root INFO Request executed in :0.070
+
+08:43:23,133 root INFO Request: 76
+08:43:23,197 root INFO Response status code: 502
+08:43:23,197 root INFO Content of the request no. 76: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,197 root INFO Request executed in :0.063
+
+08:43:23,226 root INFO Request: 77
+08:43:23,291 root INFO Response status code: 502
+08:43:23,291 root INFO Content of the request no. 77: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,291 root INFO Request executed in :0.066
+
+08:43:23,317 root INFO Request: 78
+08:43:23,382 root INFO Response status code: 502
+08:43:23,382 root INFO Content of the request no. 78: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,382 root INFO Request executed in :0.065
+
+08:43:23,395 root INFO Request: 79
+08:43:23,463 root INFO Response status code: 502
+08:43:23,463 root INFO Content of the request no. 79: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,463 root INFO Request executed in :0.067
+
+08:43:23,488 root INFO Request: 80
+08:43:23,561 root INFO Response status code: 502
+08:43:23,562 root INFO Content of the request no. 80: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,562 root INFO Request executed in :0.074
+
+08:43:23,581 root INFO Request: 81
+08:43:23,657 root INFO Response status code: 502
+08:43:23,657 root INFO Content of the request no. 81: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,657 root INFO Request executed in :0.075
+
+08:43:23,675 root INFO Request: 82
+08:43:23,741 root INFO Response status code: 502
+08:43:23,741 root INFO Content of the request no. 82: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,741 root INFO Request executed in :0.066
+
+08:43:23,769 root INFO Request: 83
+08:43:23,838 root INFO Response status code: 502
+08:43:23,838 root INFO Content of the request no. 83: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,838 root INFO Request executed in :0.069
+
+08:43:23,862 root INFO Request: 84
+08:43:23,929 root INFO Response status code: 502
+08:43:23,930 root INFO Content of the request no. 84: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:23,930 root INFO Request executed in :0.068
+
+08:43:23,956 root INFO Request: 85
+08:43:24,20 root INFO Response status code: 502
+08:43:24,20 root INFO Content of the request no. 85: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,20 root INFO Request executed in :0.064
+
+08:43:24,34 root INFO Request: 86
+08:43:24,100 root INFO Response status code: 502
+08:43:24,100 root INFO Content of the request no. 86: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,100 root INFO Request executed in :0.066
+
+08:43:24,112 root INFO Request: 87
+08:43:24,181 root INFO Response status code: 502
+08:43:24,182 root INFO Content of the request no. 87: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,182 root INFO Request executed in :0.070
+
+08:43:24,205 root INFO Request: 88
+08:43:24,270 root INFO Response status code: 502
+08:43:24,270 root INFO Content of the request no. 88: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,270 root INFO Request executed in :0.065
+
+08:43:24,282 root INFO Request: 89
+08:43:24,344 root INFO Response status code: 502
+08:43:24,344 root INFO Content of the request no. 89: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,344 root INFO Request executed in :0.062
+
+08:43:24,359 root INFO Request: 90
+08:43:24,426 root INFO Response status code: 502
+08:43:24,426 root INFO Content of the request no. 90: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,426 root INFO Request executed in :0.067
+
+08:43:24,451 root INFO Request: 91
+08:43:24,515 root INFO Response status code: 502
+08:43:24,515 root INFO Content of the request no. 91: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,516 root INFO Request executed in :0.066
+
+08:43:24,528 root INFO Request: 92
+08:43:24,592 root INFO Response status code: 502
+08:43:24,593 root INFO Content of the request no. 92: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,593 root INFO Request executed in :0.066
+
+08:43:24,604 root INFO Request: 93
+08:43:24,670 root INFO Response status code: 502
+08:43:24,670 root INFO Content of the request no. 93: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,670 root INFO Request executed in :0.066
+
+08:43:24,681 root INFO Request: 94
+08:43:24,748 root INFO Response status code: 502
+08:43:24,748 root INFO Content of the request no. 94: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,748 root INFO Request executed in :0.066
+
+08:43:24,759 root INFO Request: 95
+08:43:24,822 root INFO Response status code: 502
+08:43:24,823 root INFO Content of the request no. 95: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,823 root INFO Request executed in :0.064
+
+08:43:24,836 root INFO Request: 96
+08:43:24,903 root INFO Response status code: 502
+08:43:24,903 root INFO Content of the request no. 96: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,903 root INFO Request executed in :0.066
+
+08:43:24,928 root INFO Request: 97
+08:43:24,994 root INFO Response status code: 502
+08:43:24,995 root INFO Content of the request no. 97: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:24,995 root INFO Request executed in :0.067
+
+08:43:25,20 root INFO Request: 98
+08:43:25,87 root INFO Response status code: 502
+08:43:25,87 root INFO Content of the request no. 98: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:25,87 root INFO Request executed in :0.067
+
+08:43:25,112 root INFO Request: 99
+08:43:25,176 root INFO Response status code: 502
+08:43:25,176 root INFO Content of the request no. 99: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:43:25,176 root INFO Request executed in :0.065
+
+08:43:25,189 root INFO Total time for execution 6.615116596221924
+08:46:18,409 root INFO Total time for execution 0.0
+08:46:24,388 root INFO Request: 0
+08:46:24,471 root INFO Response status code: 502
+08:46:24,471 root INFO Content of the request no. 0: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+08:46:24,471 root INFO Request executed in :0.083
+
+08:46:24,473 root INFO Total time for execution 0.08266687393188477
+09:00:31,997 root INFO Request: 0
+09:00:32,99 root INFO Response status code: 502
+09:00:32,99 root INFO Content of the request no. 0: b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
+09:00:32,99 root INFO Request executed in :0.101
+
+09:00:32,100 root INFO Total time for execution 0.1006629467010498

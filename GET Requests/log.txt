@@ -1,0 +1,502 @@
+Thread0
+https://harvard.edu
+Response status code: 401
+Content of the request no. 0: b'{"timestamp":"2021-10-19T10:51:51.750706383","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.14876890182495117
+Thread1
+https://draft.blogger.com
+Response status code: 401
+Content of the request no. 1: b'{"timestamp":"2021-10-19T10:51:51.794588276","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.042448997497558594
+Thread2
+https://rtve.es
+Response status code: 401
+Content of the request no. 2: b'{"timestamp":"2021-10-19T10:51:52.855069926","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.0466306209564209
+Thread3
+https://forbes.com
+Response status code: 401
+Content of the request no. 3: b'{"timestamp":"2021-10-19T10:51:53.412662546","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04300832748413086
+Thread4
+https://t.co
+Response status code: 401
+Content of the request no. 4: b'{"timestamp":"2021-10-19T10:51:53.804589183","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04828643798828125
+Thread5
+https://bloomberg.com
+Response status code: 401
+Content of the request no. 5: b'{"timestamp":"2021-10-19T10:51:54.109259087","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.043111324310302734
+Thread6
+https://pewresearch.org
+Response status code: 401
+Content of the request no. 6: b'{"timestamp":"2021-10-19T10:51:54.358387351","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.043480634689331055
+Thread7
+https://wattpad.com
+Response status code: 401
+Content of the request no. 7: b'{"timestamp":"2021-10-19T10:51:54.576904455","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.046708106994628906
+Thread8
+https://indiatimes.com
+Response status code: 401
+Content of the request no. 8: b'{"timestamp":"2021-10-19T10:51:54.775437175","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04325580596923828
+Thread9
+https://e-recht24.de
+Response status code: 401
+Content of the request no. 9: b'{"timestamp":"2021-10-19T10:51:54.945157771","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04387640953063965
+Thread10
+https://drive.google.com
+Response status code: 401
+Content of the request no. 10: b'{"timestamp":"2021-10-19T10:51:55.115657481","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04392290115356445
+Thread11
+https://irs.gov
+Response status code: 401
+Content of the request no. 11: b'{"timestamp":"2021-10-19T10:51:55.271163206","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.050386905670166016
+Thread12
+https://jamanetwork.com
+Response status code: 401
+Content of the request no. 12: b'{"timestamp":"2021-10-19T10:51:55.422882391","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.040437936782836914
+Thread13
+https://bandcamp.com
+Response status code: 401
+Content of the request no. 13: b'{"timestamp":"2021-10-19T10:51:55.561774013","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04326033592224121
+Thread14
+https://mail.google.com
+Response status code: 401
+Content of the request no. 14: b'{"timestamp":"2021-10-19T10:51:55.689770375","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04644179344177246
+Thread15
+https://wikia.com
+Response status code: 401
+Content of the request no. 15: b'{"timestamp":"2021-10-19T10:51:55.813451028","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.0439610481262207
+Thread16
+https://parallels.com
+Response status code: 401
+Content of the request no. 16: b'{"timestamp":"2021-10-19T10:51:55.937695398","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04193592071533203
+Thread17
+https://www.gov.uk
+Response status code: 401
+Content of the request no. 17: b'{"timestamp":"2021-10-19T10:51:56.044816325","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04212832450866699
+Thread18
+https://youtube.com
+Response status code: 401
+Content of the request no. 18: b'{"timestamp":"2021-10-19T10:51:56.150421036","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04662966728210449
+Thread19
+https://ikea.com
+Response status code: 401
+Content of the request no. 19: b'{"timestamp":"2021-10-19T10:51:56.266401071","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04862093925476074
+Thread20
+https://unesco.org
+Response status code: 401
+Content of the request no. 20: b'{"timestamp":"2021-10-19T10:51:56.369438887","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04187178611755371
+Thread21
+https://doi.org
+Response status code: 401
+Content of the request no. 21: b'{"timestamp":"2021-10-19T10:51:56.460595250","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04197239875793457
+Thread22
+https://translate.google.com
+Response status code: 401
+Content of the request no. 22: b'{"timestamp":"2021-10-19T10:51:56.555418426","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04175424575805664
+Thread23
+https://microsoft.com
+Response status code: 401
+Content of the request no. 23: b'{"timestamp":"2021-10-19T10:51:56.647117503","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.03980207443237305
+Thread24
+https://books.google.com
+Response status code: 401
+Content of the request no. 24: b'{"timestamp":"2021-10-19T10:51:56.745112275","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04217386245727539
+Thread25
+https://histats.com
+Response status code: 401
+Content of the request no. 25: b'{"timestamp":"2021-10-19T10:51:56.836686495","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.03998756408691406
+Thread26
+https://cbsnews.com
+Response status code: 401
+Content of the request no. 26: b'{"timestamp":"2021-10-19T10:51:56.927115616","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.039519548416137695
+Thread27
+https://sky.com
+Response status code: 401
+Content of the request no. 27: b'{"timestamp":"2021-10-19T10:51:57.018820766","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.03914475440979004
+Thread28
+https://ebay.co.uk
+Response status code: 401
+Content of the request no. 28: b'{"timestamp":"2021-10-19T10:51:57.112831406","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04029703140258789
+Thread29
+https://steamcommunity.com
+Response status code: 401
+Content of the request no. 29: b'{"timestamp":"2021-10-19T10:51:57.191021395","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.040859222412109375
+Thread30
+https://android.com
+Response status code: 401
+Content of the request no. 30: b'{"timestamp":"2021-10-19T10:51:57.268491637","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04001593589782715
+Thread31
+https://php.net
+Response status code: 401
+Content of the request no. 31: b'{"timestamp":"2021-10-19T10:51:57.347575718","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04230904579162598
+Thread32
+https://nih.gov
+Response status code: 401
+Content of the request no. 32: b'{"timestamp":"2021-10-19T10:51:57.425458702","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04126262664794922
+Thread33
+https://ucla.edu
+Response status code: 401
+Content of the request no. 33: b'{"timestamp":"2021-10-19T10:51:57.502470692","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04170536994934082
+Thread34
+https://clickbank.net
+Response status code: 401
+Content of the request no. 34: b'{"timestamp":"2021-10-19T10:51:57.582386708","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04411745071411133
+Thread35
+https://megaupload.com
+Response status code: 401
+Content of the request no. 35: b'{"timestamp":"2021-10-19T10:51:57.657631857","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04402875900268555
+Thread36
+https://ibm.com
+Response status code: 401
+Content of the request no. 36: b'{"timestamp":"2021-10-19T10:51:57.735081617","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04390549659729004
+Thread37
+https://aliexpress.com
+Response status code: 401
+Content of the request no. 37: b'{"timestamp":"2021-10-19T10:51:57.809927463","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.03924894332885742
+Thread38
+https://mozilla.com
+Response status code: 401
+Content of the request no. 38: b'{"timestamp":"2021-10-19T10:51:57.891190025","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04190635681152344
+Thread39
+https://dailymotion.com
+Response status code: 401
+Content of the request no. 39: b'{"timestamp":"2021-10-19T10:51:57.968373640","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.040993690490722656
+Thread40
+https://billboard.com
+Response status code: 401
+Content of the request no. 40: b'{"timestamp":"2021-10-19T10:51:58.044878153","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.042905330657958984
+Thread41
+https://hp.com
+Response status code: 401
+Content of the request no. 41: b'{"timestamp":"2021-10-19T10:51:58.122488141","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04646158218383789
+Thread42
+https://disney.com
+Response status code: 401
+Content of the request no. 42: b'{"timestamp":"2021-10-19T10:51:58.200977679","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04455447196960449
+Thread43
+https://psychologytoday.com
+Response status code: 401
+Content of the request no. 43: b'{"timestamp":"2021-10-19T10:51:58.277849014","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.041542768478393555
+Thread44
+https://ziddu.com
+Response status code: 401
+Content of the request no. 44: b'{"timestamp":"2021-10-19T10:51:58.357792466","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.044426918029785156
+Thread45
+https://telegraph.co.uk
+Response status code: 401
+Content of the request no. 45: b'{"timestamp":"2021-10-19T10:51:58.439062639","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04665040969848633
+Thread46
+https://draft.blogger.com
+Response status code: 401
+Content of the request no. 46: b'{"timestamp":"2021-10-19T10:51:58.511410511","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04255557060241699
+Thread47
+https://columbia.edu
+Response status code: 401
+Content of the request no. 47: b'{"timestamp":"2021-10-19T10:51:58.592065913","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.044901132583618164
+Thread48
+https://mediafire.com
+Response status code: 401
+Content of the request no. 48: b'{"timestamp":"2021-10-19T10:51:58.667685774","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04231739044189453
+Thread49
+https://maps.google.com
+Response status code: 401
+Content of the request no. 49: b'{"timestamp":"2021-10-19T10:51:58.747977122","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04686760902404785
+Thread50
+https://imdb.com
+Response status code: 401
+Content of the request no. 50: b'{"timestamp":"2021-10-19T10:51:58.830445035","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.052294254302978516
+Thread51
+https://asus.com
+Response status code: 401
+Content of the request no. 51: b'{"timestamp":"2021-10-19T10:51:58.903067329","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.05571794509887695
+Thread52
+https://unsplash.com
+Response status code: 401
+Content of the request no. 52: b'{"timestamp":"2021-10-19T10:51:58.973727720","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.040696144104003906
+Thread53
+https://themeforest.net
+Response status code: 401
+Content of the request no. 53: b'{"timestamp":"2021-10-19T10:51:59.036776053","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04242229461669922
+Thread54
+https://unesco.org
+Response status code: 401
+Content of the request no. 54: b'{"timestamp":"2021-10-19T10:51:59.103648702","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04735398292541504
+Thread55
+https://foursquare.com
+Response status code: 401
+Content of the request no. 55: b'{"timestamp":"2021-10-19T10:51:59.176715036","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04361891746520996
+Thread56
+https://orange.fr
+Response status code: 401
+Content of the request no. 56: b'{"timestamp":"2021-10-19T10:51:59.259215938","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.0462496280670166
+Thread57
+https://independent.co.uk
+Response status code: 401
+Content of the request no. 57: b'{"timestamp":"2021-10-19T10:51:59.338527901","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.05227398872375488
+Thread58
+https://theguardian.com
+Response status code: 401
+Content of the request no. 58: b'{"timestamp":"2021-10-19T10:51:59.409762058","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04637551307678223
+Thread59
+https://europa.eu
+Response status code: 401
+Content of the request no. 59: b'{"timestamp":"2021-10-19T10:51:59.487128432","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.044888973236083984
+Thread60
+https://namesilo.com
+Response status code: 401
+Content of the request no. 60: b'{"timestamp":"2021-10-19T10:51:59.549891529","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.0541839599609375
+Thread61
+https://www.wix.com
+Response status code: 401
+Content of the request no. 61: b'{"timestamp":"2021-10-19T10:51:59.625306258","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.042757511138916016
+Thread62
+https://rakuten.co.jp
+Response status code: 401
+Content of the request no. 62: b'{"timestamp":"2021-10-19T10:51:59.686641035","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04646587371826172
+Thread63
+https://google.pl
+Response status code: 401
+Content of the request no. 63: b'{"timestamp":"2021-10-19T10:51:59.772070775","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.047457218170166016
+Thread64
+https://tmz.com
+Response status code: 401
+Content of the request no. 64: b'{"timestamp":"2021-10-19T10:51:59.844110002","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.042102813720703125
+Thread65
+https://stanford.edu
+Response status code: 401
+Content of the request no. 65: b'{"timestamp":"2021-10-19T10:51:59.915011880","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.05151224136352539
+Thread66
+https://theglobeandmail.com
+Response status code: 401
+Content of the request no. 66: b'{"timestamp":"2021-10-19T10:51:59.984241758","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.043349504470825195
+Thread67
+https://xinhuanet.com
+Response status code: 401
+Content of the request no. 67: b'{"timestamp":"2021-10-19T10:52:00.044207567","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.0433497428894043
+Thread68
+https://britannica.com
+Response status code: 401
+Content of the request no. 68: b'{"timestamp":"2021-10-19T10:52:00.106646598","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04041767120361328
+Thread69
+https://myaccount.google.com
+Response status code: 401
+Content of the request no. 69: b'{"timestamp":"2021-10-19T10:52:00.167725969","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.03953123092651367
+Thread70
+https://list-manage.com
+Response status code: 401
+Content of the request no. 70: b'{"timestamp":"2021-10-19T10:52:00.234790837","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04472684860229492
+Thread71
+https://translate.google.com
+Response status code: 401
+Content of the request no. 71: b'{"timestamp":"2021-10-19T10:52:00.293322419","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04072284698486328
+Thread72
+https://google.com.br
+Response status code: 401
+Content of the request no. 72: b'{"timestamp":"2021-10-19T10:52:00.359935937","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04579973220825195
+Thread73
+https://ca.gov
+Response status code: 401
+Content of the request no. 73: b'{"timestamp":"2021-10-19T10:52:00.422047353","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04665374755859375
+Thread74
+https://ok.ru
+Response status code: 401
+Content of the request no. 74: b'{"timestamp":"2021-10-19T10:52:00.488845629","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.0474092960357666
+Thread75
+https://samsung.com
+Response status code: 401
+Content of the request no. 75: b'{"timestamp":"2021-10-19T10:52:00.561141979","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04351615905761719
+Thread76
+https://dropbox.com
+Response status code: 401
+Content of the request no. 76: b'{"timestamp":"2021-10-19T10:52:00.626001175","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04482603073120117
+Thread77
+https://steamcommunity.com
+Response status code: 401
+Content of the request no. 77: b'{"timestamp":"2021-10-19T10:52:00.690478496","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04543757438659668
+Thread78
+https://files.wordpress.com
+Response status code: 401
+Content of the request no. 78: b'{"timestamp":"2021-10-19T10:52:00.746799954","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.038736581802368164
+Thread79
+https://ebay.co.uk
+Response status code: 401
+Content of the request no. 79: b'{"timestamp":"2021-10-19T10:52:00.812999510","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04287290573120117
+Thread80
+https://webmd.com
+Response status code: 401
+Content of the request no. 80: b'{"timestamp":"2021-10-19T10:52:00.876448586","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.046924591064453125
+Thread81
+https://m.me
+Response status code: 401
+Content of the request no. 81: b'{"timestamp":"2021-10-19T10:52:00.930842338","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.0383296012878418
+Thread82
+https://mashable.com
+Response status code: 401
+Content of the request no. 82: b'{"timestamp":"2021-10-19T10:52:01.001430535","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04585385322570801
+Thread83
+https://noaa.gov
+Response status code: 401
+Content of the request no. 83: b'{"timestamp":"2021-10-19T10:52:01.061106667","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04551339149475098
+Thread84
+https://washingtonpost.com
+Response status code: 401
+Content of the request no. 84: b'{"timestamp":"2021-10-19T10:52:01.121266332","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04103517532348633
+Thread85
+https://nih.gov
+Response status code: 401
+Content of the request no. 85: b'{"timestamp":"2021-10-19T10:52:01.185685477","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04670119285583496
+Thread86
+https://focus.de
+Response status code: 401
+Content of the request no. 86: b'{"timestamp":"2021-10-19T10:52:01.245362234","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04434680938720703
+Thread87
+https://springer.com
+Response status code: 401
+Content of the request no. 87: b'{"timestamp":"2021-10-19T10:52:01.308993683","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.0470576286315918
+Thread88
+https://unesco.org
+Response status code: 401
+Content of the request no. 88: b'{"timestamp":"2021-10-19T10:52:01.384901790","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.05974125862121582
+Thread89
+https://photobucket.com
+Response status code: 401
+Content of the request no. 89: b'{"timestamp":"2021-10-19T10:52:01.446188583","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.042912960052490234
+Thread90
+https://pinterest.co.uk
+Response status code: 401
+Content of the request no. 90: b'{"timestamp":"2021-10-19T10:52:01.518366330","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.05309414863586426
+Thread91
+https://discord.gg
+Response status code: 401
+Content of the request no. 91: b'{"timestamp":"2021-10-19T10:52:01.581192817","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.036689043045043945
+Thread92
+https://sakura.ne.jp
+Response status code: 401
+Content of the request no. 92: b'{"timestamp":"2021-10-19T10:52:01.648323974","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04253649711608887
+Thread93
+https://ig.com.br
+Response status code: 401
+Content of the request no. 93: b'{"timestamp":"2021-10-19T10:52:01.711434576","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04519152641296387
+Thread94
+https://soratemplates.com
+Response status code: 401
+Content of the request no. 94: b'{"timestamp":"2021-10-19T10:52:01.771770072","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04036235809326172
+Thread95
+https://tinyurl.com
+Response status code: 401
+Content of the request no. 95: b'{"timestamp":"2021-10-19T10:52:01.833732421","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04178166389465332
+Thread96
+https://qq.com
+Response status code: 401
+Content of the request no. 96: b'{"timestamp":"2021-10-19T10:52:01.894161729","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04233241081237793
+Thread97
+https://discord.com
+Response status code: 401
+Content of the request no. 97: b'{"timestamp":"2021-10-19T10:52:01.956356335","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.03943657875061035
+Thread98
+https://photos.google.com
+Response status code: 401
+Content of the request no. 98: b'{"timestamp":"2021-10-19T10:52:02.020353124","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04333329200744629
+Thread99
+https://gravatar.com
+Response status code: 401
+Content of the request no. 99: b'{"timestamp":"2021-10-19T10:52:02.080956551","error":"Request auth failed","status":401,"path":"/public-cat/api/v1/categorize-url"}\r\n'
+Request executed in :0.04253387451171875
+Done!
+Total time for execution0
